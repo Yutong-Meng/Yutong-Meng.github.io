@@ -8,7 +8,7 @@ author:
 description: >
   Portfolio site for Rosie
 url: "https://yutong-meng.github.io" #Yutong-Meng
-baseurl: "/meng-testing.github.io"
+baseurl: 
 
 # Build settings
 
