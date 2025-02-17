@@ -1,13 +1,13 @@
 title: Your Name
 author:
-  name: Your Name
-  email: your-email@domain.com
+  name: Rosie
+  email: yutong.meng@ucdenver.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Portfolio site for Rosie
-url: "https://Yutong-Meng.github.io" #Yutong-Meng
+url: "https://yutong-meng.github.io" #Yutong-Meng
 baseurl: ""
 
 # Build settings
