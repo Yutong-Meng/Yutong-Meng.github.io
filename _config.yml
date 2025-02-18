@@ -39,7 +39,7 @@ navigation:
     - title: "Another Website"
       url: "https://cblevins.github.io/sp25-data/"
     - title: "Project Review"
-      url:"/project-review/"
+      url:"https://yutong-meng.github.io/project-review"
 
 include: ["_pages"]
 permalink: /:title/
