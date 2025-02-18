@@ -36,10 +36,12 @@ navigation:
       url: "/"
     - title: "Portfolio"
       url: "/portfolio/"
-    - title: "Another Website"
-      url: "https://cblevins.github.io/sp25-data/"
     - title: "Project Review"
       url: "https://yutong-meng.github.io/project-review"
+    - title: "Another Website"
+      url: "https://cblevins.github.io/sp25-data/"
+    - title: "Skills"
+      url: "/skills/"
 
 include: ["_pages"]
 permalink: /:title/
