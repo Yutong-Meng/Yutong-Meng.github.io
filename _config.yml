@@ -1,4 +1,4 @@
-title: Your Name
+title: Rosie
 author:
   name: Rosie
   email: yutong.meng@ucdenver.edu
@@ -72,10 +72,10 @@ minima:
   social_links:
     - title: Github
       icon: github
-      url: "https://github.com/your-github-username/"
+      url: "https://github.com/yutong-meng/"
     - title: Linkedin
       icon: linkedin
-      url: "https://www.linkedin.com/in/your-linkedin-username/"
+      url: "www.linkedin.com/in/yutongm"
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
