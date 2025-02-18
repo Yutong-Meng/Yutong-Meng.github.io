@@ -80,6 +80,9 @@ minima:
     - title: Linkedin
       icon: linkedin
       url: "www.linkedin.com/in/yutongm"
+    - title: "Instagram"
+      icon: <i class="fa-brands fa-instagram"></i>
+      url: "https://www.instagram.com/yutong7003?igsh=MXA5dWhmazloM2xtMg%3D%3D&utm_source=qr"
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
