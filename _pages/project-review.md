@@ -11,3 +11,6 @@ description: >
 
 This is my project review. It was written on {{ page.date }} and falls under the category of: {{ page.category }}.
 This is some more placeholder text.
+<div align="center">
+  <p><img src="/assets/img/example-screenshot.png" style="width: 80%;" /></p>
+</div>
