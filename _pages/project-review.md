@@ -11,7 +11,7 @@ description: >
 
 The website I chose is https://jerseylen.github.io/incarceration-in-real-numbers/
 
-The actual number of Americans jailed or imprisoned, about 2.3 million. The actual number of Americans jailed or imprisoned, about 2.3 million. The site author (GitHub username "jerseylen") uses a variety of interactive ICONS, such as bar charts, line charts, and area charts, to show the scale of incarceration in the United States, trends, and differences across demographic groups and geographies. Through this website, the author hopes to show some of the problems of the U.S. incarceration system, such as the excessive size of the incarceration system, racial inequality and regional differences, and urge readers to pay more attention to and think about criminal justice reform and social justice.
+It is a website that visualizes data about incarceration in the United States. The site author (GitHub username "jerseylen") uses a variety of interactive ICONS, such as bar charts, line charts, and area charts, to show the scale of incarceration in the United States, trends, and differences across demographic groups and geographies. Through this website, the author hopes to show some of the problems of the U.S. incarceration system, such as the excessive size of the incarceration system, racial inequality and regional differences, and urge readers to pay more attention to and think about criminal justice reform and social justice.
 
 # A Interactive Way to Visualizing Incarceration Data
 
