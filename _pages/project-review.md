@@ -17,9 +17,13 @@ It is a website that visualizes data about incarceration in the United States. T
 
 The site breaks away from the boring presentation of traditional tables and static charts and makes the data "come alive". Each little icon on the page represents the number of people incarcerated. As the page scrolls, the number of little ICONS gradually increases, and readers can intuitively see how many 2.3million there are.
 
+The site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, making people more eager to explore.
 
-
-In fact, the site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, making people more eager to explore.
+<div align="center">
+  <video style="max-width:100%;" controls>
+    <source src="1.mp4" type="video/mp4">
+      </video>
+</div>
 
 In this chart, for example, readers can switch between different reasons for incarceration and immediately see how the numbers change. This makes it easy to understand at a glance the factors behind mass incarceration.
 
