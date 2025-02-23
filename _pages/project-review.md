@@ -55,6 +55,10 @@ By clicking on the notes following the text, we can access the site's GitHub rep
 
 At the same time, the authors explain uncertain data, such as the lack of transparency in official reports, the number of incarcerated people in China is difficult to verify and can only be estimated or referred to third-party statistics. This clarification can help researchers and readers understand possible errors in the study and avoid any misunderstanding. But at the same time, because some numbers rely on estimates, there may be some error, which is a weekness for the site.
 
+<div align="center">
+  <img src="6.png" style="max-width:80%;">
+</div>
+
 # Reliance on Secondhand Data
 
 As can be seen from the Github Repository explanation, the authors rely on secondary sources such as the Prison Policy Initiative (PPI) and Wikipedia for much of their data. This means that data has already been filtered, processed, and interpreted. This cooked data can introduce some biases, there’s always a chance that certain details were emphasized or omitted based on how the sources chose to present them.
