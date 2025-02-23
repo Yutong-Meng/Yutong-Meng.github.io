@@ -23,7 +23,7 @@ The site breaks away from the boring presentation of traditional tables and stat
       </video>
 </div>
 
-The site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, making people more eager to explore.
+And the site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, making people more eager to explore.
 
 <div align="center">
   <video style="max-width:100%;" controls>
