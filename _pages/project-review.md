@@ -19,23 +19,23 @@ The site breaks away from the boring presentation of traditional tables and stat
 
 <div align="center">
   <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
-    <source src="1.mp4" type="video/mp4">
+    <source src="/assets/img/1.mp4" type="video/mp4">
       </video>
 </div>
 
 And the site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, making people more eager to explore. This way the reader will not be bored or the data will be too cluttered.
 
 <div align="center">
-  <video style="max-width:100%;" controls>
-    <source src="2.mp4" type="video/mp4">
+  <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
+    <source src="/assets/img/2.mp4" type="video/mp4">
       </video>
 </div>
 
 In this chart, for example, readers can switch between different reasons for incarceration and immediately see how the numbers change. Like, when you choose the factor "Release all non-violent drug offenders", the number of incarcerated will decline rapidly; At the same time, you can see which factors can be checked to make the incarceration rate in the United States lower than in other countries. This makes it easy to understand at a glance the factors behind mass incarceration.
 
 <div align="center">
-  <video style="max-width:100%;" controls>
-    <source src="3.mp4" type="video/mp4">
+  <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
+    <source src="/assets/img/3.mp4" type="video/mp4">
       </video>
 </div>
 
@@ -49,15 +49,15 @@ The site's data includes multiple jurisdictions, such as federal prisons, juveni
 By clicking on the notes following the text, we can access the site's GitHub repository, where we can find detailed data sources and methodology explanations. The authors explain in detail which research institutions or official reports the data came from, and explain the sampling process and processing of the raw data.
 
 <div align="center">
-  <video style="max-width:100%;" controls>
-    <source src="4.mp4" type="video/mp4">
+  <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
+    <source src="/assets/img/4.mp4" type="video/mp4">
       </video>
 </div>
 
 At the same time, the authors explain uncertain data, such as the lack of transparency in official reports, the number of incarcerated people in China is difficult to verify and can only be estimated or referred to third-party statistics. This clarification can help researchers and readers understand possible errors in the study and avoid any misunderstanding. But at the same time, because some numbers rely on estimates, there may be some error, which is a weekness for the site.
 
 <div align="center">
-  <img src="6.png" style="max-width:80%;">
+    <p><img src="/assets/img/6.png" style="width: 80%;" /></p>
 </div>
 
 # Reliance on Secondhand Data
@@ -65,7 +65,7 @@ At the same time, the authors explain uncertain data, such as the lack of transp
 As can be seen from the Github Repository explanation, the authors rely on secondary sources such as the Prison Policy Initiative (PPI) and Wikipedia for much of their data. This means that data has already been filtered, processed, and interpreted. This cooked data can introduce some biases, there’s always a chance that certain details were emphasized or omitted based on how the sources chose to present them.
 
 <div align="center">
-  <img src="5.png" style="max-width:80%;">
+    <p><img src="/assets/img/5.png" style="width: 80%;" /></p>
 </div>
 
 # Masking Significant Regional Variations
