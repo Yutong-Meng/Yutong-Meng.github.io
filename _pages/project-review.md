@@ -23,6 +23,7 @@ The site breaks away from the boring presentation of traditional tables and stat
       </video>
 </div>
 
+
 Moreover, the site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, which make the reader will not be bored or the data will be too cluttered.
 
 In this chart, for example, readers can switch between different reasons for incarceration and immediately see how the numbers change. When you choose the factor "Release all non-violent drug offenders", the number of incarcerated will decline rapidly. The readers can directly understand which factors made the incarceration rate in the United States higher than in other countries. This makes it easy to understand at a glance the factors behind mass incarceration.
