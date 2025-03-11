@@ -25,24 +25,11 @@ The site breaks away from the boring presentation of traditional tables and stat
 
 Moreover, the site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, which make the reader will not be bored or the data will be too cluttered.
 
-<div align="center">
-  <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
-    <source src="/assets/img/2.mp4" type="video/mp4">
-      </video>
-</div>
-
 In this chart, for example, readers can switch between different reasons for incarceration and immediately see how the numbers change. When you choose the factor "Release all non-violent drug offenders", the number of incarcerated will decline rapidly. The readers can directly understand which factors made the incarceration rate in the United States higher than in other countries. This makes it easy to understand at a glance the factors behind mass incarceration.
-
-<div align="center">
-  <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
-    <source src="/assets/img/3.mp4" type="video/mp4">
-      </video>
-</div>
 
 # Covering Diverse Jurisdictions
 
 The site's data includes multiple jurisdictions, such as federal prisons, juvenile detention centers, and immigration detention facilities. Compared to the traditional approach of focusing only on federal or state prisons, this broad data coverage avoids some of the biases that can arise from incomplete data collection. Futhermore, this work can compare the differences between different types of facilities and help to find the advantages and problems of each.
-
 
 # Transparency and Clear Methodology
 
