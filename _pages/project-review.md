@@ -48,19 +48,15 @@ The site's data includes multiple jurisdictions, such as federal prisons, juveni
 
 By clicking on the notes following the text, we can access the site's GitHub repository, where we can find detailed data sources and methodology explanations. The authors explain in detail which research institutions or official reports the data came from, and explain the sampling process and processing of the raw data.
 
-Besides, the authors explain uncertain data-- Because of the lack of transparency in official reports, the number of incarcerated people in China is difficult to verify and can only be estimated or referred to third-party statistics. This clarification can help researchers and readers understand possible errors in the study and avoid any misunderstanding. However, there may be some errors because some numbers rely on estimates, a weakness for the site.
-
 <div align="center">
-    <p><img src="/assets/img/6.png" style="width: 80%;" /></p>
+    <p><img src="/assets/img/5.png" style="width: 80%;" /></p>
 </div>
+
+Besides, the authors explain uncertain data-- Because of the lack of transparency in official reports, the number of incarcerated people in China is difficult to verify and can only be estimated or referred to third-party statistics. This clarification can help researchers and readers understand possible errors in the study and avoid any misunderstanding. However, there may be some errors because some numbers rely on estimates, a weakness for the site.
 
 # Reliance on Secondhand Data
 
 As can be seen from the Github Repository explanation, the authors rely on secondary sources such as the Prison Policy Initiative (PPI) and Wikipedia for much of their data. This means that data has already been filtered, processed, and interpreted. This cooked data, which means data that’s been manipulated or tweaked according to the researcher's research direction, can introduce some biases. There’s always the posibility that certain details were emphasized or omitted based on how the sources chose to present them.
-
-<div align="center">
-    <p><img src="/assets/img/5.png" style="width: 80%;" /></p>
-</div>
 
 # Masking Significant Regional Variations
 
