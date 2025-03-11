@@ -22,7 +22,7 @@ The site breaks away from the boring presentation of traditional tables and stat
     <source src="/assets/img/1.mp4" type="video/mp4">
       </video>
 </div>
-
+</div>
 
 Moreover, the site uses an interactive way to dynamically display text and tables. As you scroll through the web, data and text will gradually expand, which make the reader will not be bored or the data will be too cluttered.
 
