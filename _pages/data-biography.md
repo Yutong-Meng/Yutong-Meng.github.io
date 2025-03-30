@@ -62,11 +62,15 @@ Name: residenceCity, dtype: int64
 
 **Code:**
 ```python
-df['residenceCity'].value_counts().head(10).plot(kind='pie', title='Top 10 Cities by Number of Members')
+df['residenceCity'].value_counts().head(3).plot(kind='pie', title='Top 3 Cities by Number of Members')
 ```
 
 **Output:**
-
+<div align="center">
+  <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
+    <source src="/assets/img/data-biography-2.mp4" type="video/mp4">
+      </video>
+</div>
 
 ## Data Collection and Digitization Process
 In the data collection and processing process, the original collectors of the first stage were members of the Denver distribution of the Klan (possibly members of clerical positions in the organization), and the various information of the members was registered by hand. 
