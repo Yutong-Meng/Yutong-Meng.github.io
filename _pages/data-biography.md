@@ -65,6 +65,9 @@ Name: residenceCity, dtype: int64
 df['residenceCity'].value_counts().head(10).plot(kind='pie', title='Top 10 Cities by Number of Members')
 ```
 
+**Output:**
+
+
 ## Data Collection and Digitization Process
 In the data collection and processing process, the original collectors of the first stage were members of the Denver distribution of the Klan (possibly members of clerical positions in the organization), and the various information of the members was registered by hand. 
 
