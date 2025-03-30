@@ -67,7 +67,7 @@ df['residenceCity'].value_counts().head(3).plot(kind='pie', title='Top 3 Cities 
 
 **Output:**
 <div align="center">
-    <p><img src="/assets/img/data-biography-2.png" style="width: 80%;" /></p>
+    <p><img src="/assets/img/data-biography-2.png" style="width: 40%;" /></p>
 </div>
 
 ## Data Collection and Digitization Process
