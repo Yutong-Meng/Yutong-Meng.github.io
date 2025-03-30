@@ -67,14 +67,15 @@ df['residenceCity'].value_counts().head(3).plot(kind='pie', title='Top 3 Cities 
 
 **Output:**
 <div align="center">
-  <video style="max-width:80%; height:auto; display:block; margin:0 auto;" controls>
-    <source src="/assets/img/data-biography-2.mp4" type="video/mp4">
-      </video>
+    <p><img src="/assets/img/data-biography-2.png" style="width: 80%;" /></p>
 </div>
 
 ## Data Collection and Digitization Process
 In the data collection and processing process, the original collectors of the first stage were members of the Denver distribution of the Klan (possibly members of clerical positions in the organization), and the various information of the members was registered by hand. 
 
+<div align="center">
+    <p><img src="/assets/img/data-biography-1.png" style="width: 80%;" /></p>
+</div>
 
 In the second phase, the handwritten registers were collected by History Colorado and entered into its public records system. To protect the original documents, museum staff scanned them, archived images, etc., and posted digital copies on the official website. 
 
