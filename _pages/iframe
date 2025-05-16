@@ -1,0 +1,9 @@
+---
+layout: default
+title: Research Project Viewer
+permalink: /research-project/
+---
+
+<iframe src="/assets/final-research-project.html" width="100%" height="1600px" style="border:none;">
+  Your browser does not support iframes.
+</iframe>
